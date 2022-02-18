@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @EsterD17
 - 👀 Tenho interesse em programação, IA, Machine Learning e áreas a fins
+- 📝 Tenho conhecimento em: Python, HTML, CSS, UML
 - 🌱 Atualmente estou aprendendo Orientação a Objetos em C++ e Java
 - 💞️ Tenho interesse em projetos de programação e automação com Arduino 
 - 📫 Para me encontrar envie um email para: esterteteh4@gmail.com
